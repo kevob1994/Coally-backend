@@ -14,7 +14,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes req
 1.  Clona el repositorio:
 
     ```bash
-    git clone https://github.com/usuario/coally-challenge-backend.git
+    git clone https://github.com/kevob1994/Coally-backend.git
     cd coally-challenge-backend
     ```
 
