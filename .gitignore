@@ -1,0 +1,8 @@
+node_modules/
+
+# Env files DO NOT COMMIT THEM
+.env.production
+.env.development
+.env.local
+.env
+dist
